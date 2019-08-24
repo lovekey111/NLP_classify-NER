@@ -1,7 +1,7 @@
 # NLP_classify-NER
 使用keras与tensorflow搭建文本分类与命名实体识别模型
 
-##1、需安装包
+## 1、需安装包
 * 必备
 	*  numpy:  矩阵及数据处理
 	* jieba: 中文分词
@@ -13,7 +13,7 @@
 * 可选
 	* gensim: 词向量训练
 	
-##2、文件说明
+## 2、文件说明
 * data: 存放训练数据、预训练词向量以及模型文件。(需自行准备数据，数据格式在model/config.py中有说明)
 * model: 数据预处理及模型训练
 	* bilstm_tensor.py: 基于tensorflow的双向lstm文本分类模型
