@@ -1,5 +1,5 @@
 # NLP_classify-NER
-使用keras与tensorflow搭建文本分类与命名实体识别模型
+使用keras与tensorflow搭建中文文本分类与命名实体识别模型
 
 ## 1、需安装包
 * 必备
