@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67a45e90-3f10-47e5-93d3-23c4f617d9e3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/bilstm_tensor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="32" column="66" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/data_divide.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/data_process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3197">
+              <caret line="139" column="27" selection-start-line="139" selection-start-column="27" selection-end-line="139" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/tensor_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3174">
+              <caret line="138" column="38" selection-start-line="138" selection-start-column="38" selection-end-line="138" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/crf_tensor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="57" column="38" lean-forward="true" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/lstm_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/svm_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="66" column="27" lean-forward="true" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>train</find>
+      <find>-0.3399284</find>
+      <find>$PROJECT_DIR$/..</find>
+      <find>./</find>
+      <find>data</find>
+      <find>similar</find>
+      <find>y</find>
+      <find>seq_len</find>
+      <find>sequence_length_less_one</find>
+      <find>&quot;..</find>
+      <find>get_batch_data</find>
+      <find>4012449</find>
+      <find>4012145</find>
+      <find>tf</find>
+      <find>word</find>
+      <find>data_rate</find>
+      <find>True</find>
+      <find>real</find>
+      <find>modeling</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>y_pre</replace>
+      <replace>.</replace>
+      <replace>../</replace>
+      <replace>train</replace>
+      <replace>test</replace>
+      <replace>PATH+&quot;</replace>
+      <replace>np</replace>
+      <replace>train_rate</replace>
+      <replace>real_seq</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/origin.py" />
+        <option value="$PROJECT_DIR$/tensor.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/svm_model.py" />
+        <option value="$PROJECT_DIR$/lstm_model.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/lstm_model_keras.py" />
+        <option value="$PROJECT_DIR$/similar_svm.py" />
+        <option value="$PROJECT_DIR$/model/2.py" />
+        <option value="$USER_HOME$/Downloads/pycorrector-master/pycorrector-master/setup.py" />
+        <option value="$PROJECT_DIR$/model/lstm_model_keras.py" />
+        <option value="$PROJECT_DIR$/../similar_svm.py" />
+        <option value="$PROJECT_DIR$/model/3.py" />
+        <option value="$PROJECT_DIR$/test/svm_test.py" />
+        <option value="$PROJECT_DIR$/model/datprocess.py" />
+        <option value="$PROJECT_DIR$/model/lstm_model_train.py" />
+        <option value="$PROJECT_DIR$/model/lstm_model_test.py" />
+        <option value="$PROJECT_DIR$/model/similar_svm.py" />
+        <option value="$USER_HOME$/Downloads/NER-in-Chinese-Text-master/NER-in-Chinese-Text-master/wiki_100.utf8.txt" />
+        <option value="$USER_HOME$/Downloads/NER-in-Chinese-Text-master/NER-in-Chinese-Text-master/preprocess.py" />
+        <option value="$USER_HOME$/Downloads/NER-in-Chinese-Text-master/NER-in-Chinese-Text-master/train_bilstm_crf.py" />
+        <option value="$USER_HOME$/Downloads/NER-in-Chinese-Text-master/NER-in-Chinese-Text-master/bilstm_crf_add_word.py" />
+        <option value="$USER_HOME$/Downloads/NER-in-Chinese-Text-master/NER-in-Chinese-Text-master/bilstm_crf.py" />
+        <option value="C:/software/Anaconda/Lib/site-packages/keras_contrib/layers/crf.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/../笔试/招银.py" />
+        <option value="$PROJECT_DIR$/model/ner_main.py" />
+        <option value="$PROJECT_DIR$/model/tensor_test.py" />
+        <option value="$PROJECT_DIR$/model/datadivide.py" />
+        <option value="$PROJECT_DIR$/model/data_divide.py" />
+        <option value="$PROJECT_DIR$/model/new_ner_main.py" />
+        <option value="$PROJECT_DIR$/model/model_tensor.py" />
+        <option value="C:/software/Anaconda/Lib/site-packages/bert/modeling.py" />
+        <option value="$PROJECT_DIR$/model/tensor.py" />
+        <option value="$PROJECT_DIR$/model/main.py" />
+        <option value="$PROJECT_DIR$/model/dataprocess.py" />
+        <option value="$PROJECT_DIR$/model/lstm_model.py" />
+        <option value="$PROJECT_DIR$/model/svm_model.py" />
+        <option value="$PROJECT_DIR$/model/bilstm_tensor.py" />
+        <option value="$PROJECT_DIR$/model/utils.py" />
+        <option value="$PROJECT_DIR$/model/1.py" />
+        <option value="$PROJECT_DIR$/model/svm_main.py" />
+        <option value="$PROJECT_DIR$/model/config.py" />
+        <option value="$PROJECT_DIR$/model/data_process.py" />
+        <option value="$PROJECT_DIR$/model/crf_tensor.py" />
+        <option value="$PROJECT_DIR$/model/bilstmcrf_tensor.py" />
+        <option value="$PROJECT_DIR$/model/tensor_main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-83" />
+    <option name="y" value="71" />
+    <option name="width" value="1717" />
+    <option name="height" value="938" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nlp_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\keyulu\Desktop\testproject\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tensor_main">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="testproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new_ner_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="testproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/new_ner_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="svm_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="testproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/svm_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="svm_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="testproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/svm_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensor_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="testproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/tensor_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tensor_main" />
+        <item itemvalue="Python.svm_main" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.svm_model" />
+        <item itemvalue="Python.new_ner_main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67a45e90-3f10-47e5-93d3-23c4f617d9e3" name="Default Changelist" comment="" />
+      <created>1562054436824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562054436824</updated>
+      <workItem from="1566635264117" duration="32000" />
+      <workItem from="1566635302716" duration="23000" />
+      <workItem from="1566635973163" duration="843000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="898000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1920" height="1050" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.50090414" side_tool="true" weight="0.06619386" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49909583" visible="true" weight="0.12714592" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32761577" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960598" weight="0.44003114" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960598" weight="0.30996886" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" show_stripe_button="false" weight="0.32943925" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.500394" side_tool="true" weight="0.39330217" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.15264797" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" sideWeight="0.50090414" side_tool="true" weight="0.06619386" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49909583" visible="true" weight="0.122537434" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32788163" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27725857" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960598" weight="0.35364637" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" show_stripe_button="false" weight="0.32943925" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.500394" side_tool="true" weight="0.41978192" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.15264797" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../similar_svm.py</url>
+          <line>247</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/svm_test.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/zh-NER-keras-master/zh-NER-keras-master/bilsm_crf_model.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/NER-in-Chinese-Text-master/NER-in-Chinese-Text-master/preprocess.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/NER-in-Chinese-Text-master/NER-in-Chinese-Text-master/bilstm_crf.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/NER-in-Chinese-Text-master/NER-in-Chinese-Text-master/predict_bilstm_crf.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/software/Anaconda/Lib/site-packages/bert/modeling.py</url>
+          <line>891</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/svm_main.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/svm_test.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/keras_contrib/layers/crf.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/tensorflow/python/training/queue_runner_impl.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/tensorflow/python/ops/array_ops.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/tensorflow/__init__.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/sklearn/metrics/classification.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/gensim/topic_coherence/indirect_confirmation_measure.py" />
+    <entry file="file://C:/software/Anaconda/Lib/__future__.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/tensorflow/python/ops/special_math_ops.py" />
+    <entry file="file://C:/software/Anaconda/Lib/abc.py" />
+    <entry file="file://$PROJECT_DIR$/../ner/new_note.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/tensorflow/python/ops/nn_ops.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/tensorflow/contrib/crf/python/ops/crf.py" />
+    <entry file="file://$PROJECT_DIR$/config.py" />
+    <entry file="file://$PROJECT_DIR$/data/new_ner/test.txt" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/tensorflow/python/client/session.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/tensorflow/_api/v1/nn/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/model/crf_layer.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/tensorflow/python/util/tf_export.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/tensorflow/python/layers/normalization.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/bert/modeling_test.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/tensorflow/python/layers/core.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1181149036/numpy/core/_multiarray_umath.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/sklearn/linear_model/base.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/sklearn/calibration.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/sklearn/svm/classes.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/tensorflow/python/framework/ops.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/keras_preprocessing/sequence.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/sklearn/feature_extraction/text.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/tensorflow/python/ops/rnn_cell_impl.py" />
+    <entry file="file://$PROJECT_DIR$/model/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/tensor_test.py" />
+    <entry file="file://$PROJECT_DIR$/data/ner/rg_train_20190701_1000002.test_ner" />
+    <entry file="file://$PROJECT_DIR$/data/ner/rg_train_20190701_1000002.train_ner" />
+    <entry file="file://$PROJECT_DIR$/model/ner_main.py" />
+    <entry file="file://C:/software/Anaconda/Lib/site-packages/bert/modeling.py" />
+    <entry file="file://$PROJECT_DIR$/model/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/bilstmcrf_tensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2420">
+          <caret line="126" column="46" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/bilstm_tensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="66" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/data_divide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/new_ner_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="88" column="97" selection-start-line="88" selection-start-column="97" selection-end-line="88" selection-end-column="97" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/data_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3197">
+          <caret line="139" column="27" selection-start-line="139" selection-start-column="27" selection-end-line="139" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/tensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/similar_svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3841">
+          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/lstm_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/svm_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="66" column="27" lean-forward="true" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/svm_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-674">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/tensor_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3174">
+          <caret line="138" column="38" selection-start-line="138" selection-start-column="38" selection-end-line="138" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/tensorflow/nn/rnn_cell/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#173#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/crf_tensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="57" column="38" lean-forward="true" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
