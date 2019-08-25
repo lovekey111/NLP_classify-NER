@@ -26,3 +26,4 @@
 	* svm_main.py: 主程序，训练svm文本分类及lstm_model.py中模型
 	* tensor_main.py: 主程序，训练bilstm_tensor.py、bilstmcrf_tensor.py、crf_tensor.py中模型
 	* utils.py: 模型评估
+* result: 各类模型在数据集上的结果
